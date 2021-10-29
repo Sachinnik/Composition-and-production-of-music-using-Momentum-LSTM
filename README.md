@@ -11,6 +11,5 @@ Project is implemented in Jupyter notebook and Google collab.
 Python libraries like  glob, numpy, pickle, music21, matplotlib, pandas, pickle and keras are used in this project.
 
 
-Overall description of the read me file and report will be shared on October 6 2021 after declaring the result.
 
 
